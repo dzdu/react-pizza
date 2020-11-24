@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## USED STACK:
+
+- ReactJS
+- Redux
+- redux-thunk
+- React Router
+- Axios
+- json-server
+
 ## Available Scripts
 
 In the project directory, you can run:
