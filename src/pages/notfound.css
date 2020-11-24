@@ -1,0 +1,16 @@
+.error{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:center;
+}
+.right{
+    text-align: center;
+}
+h1{
+    padding: 1rem;
+}
+.right b{
+    font-size: 25px;
+    color: rgb(155, 6, 6);
+}
